@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Andres Jorge Mora. 26. He/Him.
+- 👋 Hi, I’m Andres Jorge Mora. 28. He/Him.
 - 👀 I’m currently interested in Machine Learning and NLP. On the side I've tried gamedev and a bit of webdev!
 - 🌱 I’m currently learning about NLP and Chatbots, so I can write about them in my Bachelor Thesis.
 - 💞️ I’m looking to collaborate on nothing at the moment. I need to get a well paying job first!
